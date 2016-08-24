@@ -1,0 +1,41 @@
+
+.first-header{
+  background-color: grey;
+  height: 125px;
+  margin: 0 auto;
+  padding: 25px 0px 0px 25px;
+}
+.little-square{
+	width: 100px;
+	height: 100px;
+	background: blue;
+
+}
+.second-white{
+  background-color: white;
+  height: 175px;
+  text-align: left;
+}
+.p-white{
+  padding: 8px 15px;
+}
+.third-blue{
+  background-color: blue;
+  height: 125px;
+  width: 100%;
+}
+.fourth-teal{
+  background-color: #50e3c2;
+  height: 125px;
+  width: 100%;
+}
+.fifth-green{
+  background-color: green;
+  height: 125px;
+  width: 100%;
+}
+.sixth-yellow{
+  background-color: yellow;
+  height: 125px;
+  width: 100%;
+}

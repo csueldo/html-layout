@@ -1,0 +1,28 @@
+header{
+  background-color: #444444;
+  height: 140px;
+  width: 100%;
+}
+.left {
+  background-color: #efefef;
+  height: calc(100vh - 140px);
+  width: 25%;
+  float: left;
+  display: inline-block;
+}
+.content-wrapper{
+  height: calc(100vh - 240px);
+  width: 50%;
+  background-color: white;
+  display: inline-block;
+}
+.right {
+  background-color: #efefef;
+  height: calc(100vh - 140px);
+  width: 25%;
+  float: right;
+  display: inline-block;
+}
+body{
+  background-color: black;
+}
